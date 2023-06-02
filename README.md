@@ -8,7 +8,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ci3t&label=Profile%20views&color=0e75b6&style=flat" alt="ci3t" /> </p>
 
 
-- 🔭 I’m done working on [GameStore Mid Project for AppleSeeds](https://github.com/Ci3t/GameStore)
+- 🔭 I’m done working on [GameStore Mid Project for AppleSeeds](https://github.com/Ci3t/GameStore) & [Anime + Admin Panel Final Project for AppleSeeds]( https://github.com/Ci3t/Anime)
 
 - 🌱 I’m currently learning **Backend at AppleSeeds (Node.js/MongoDB/Express)**
 
