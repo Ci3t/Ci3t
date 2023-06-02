@@ -14,7 +14,9 @@
 
 - 👨‍💻 All of my projects are available at [Github.com/Ci3t](Github.com/Ci3t)
 
-- 💬 Ask me about **react/JS/CSS/SCSS**
+- 💬 Ask me about :
+-*FrontEnd* : **ReactJs/JavaScript/CSS/SCSS/Typescript/NextJs13 / Tailwind/ Vite**
+-*Backend* : **MongoDB/NodeJs/Express/ REST API**
 
 - 📫 How to reach me **DM ME on GitHub or Linkedin (https://bit.ly/lnkdrani)**
 
