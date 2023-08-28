@@ -10,7 +10,7 @@
 
 - 🔭 I’m done working on [GameStore Mid Project for AppleSeeds](https://github.com/Ci3t/GameStore) & [Anime + Admin Panel Final Project for AppleSeeds]( https://github.com/Ci3t/Anime)
 
-- 🌱 I’m currently learning **Backend at AppleSeeds (Node.js/MongoDB/Express)**
+- 🌱 I’m a Full Stack Developer and Instructor at **Appleseeds**
 
 - 👨‍💻 All of my projects are available at [Github.com/Ci3t](Github.com/Ci3t)
 
